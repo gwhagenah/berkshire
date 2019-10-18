@@ -13,7 +13,7 @@
 
 ?>
 
-	</div><!-- #content -->
+</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer">
 		<?php get_template_part( 'template-parts/footer/footer', 'widgets' ); ?>
@@ -48,6 +48,7 @@
 			<?php endif; ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
+
 
 </div><!-- #page -->
 
